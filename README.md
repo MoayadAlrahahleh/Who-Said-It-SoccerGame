@@ -8,7 +8,7 @@ A fast-paced, quote-guessing game that tests your football knowledge and sharpen
 - Launched on **Netlify** in 1 day as a mini front-end showcase
 
 ### 🌐 Live Demo
-[Try it here]([https://lnkd.in/dKJp7q8U) – No sign-up needed!
+[Try it here] ([https://lnkd.in/dKJp7q8U) – No sign-up needed!
 
 ### 🛠 How to Use
 Open the `index.html` file in a browser or visit the Netlify link to play instantly.

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Who Said It? - Soccer Edition</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>⚽ Who Said It?</h1>
+    <div id="quote-box">
+      <p id="quote-text">Loading quote...</p>
+    </div>
+
+    <div class="choices">
+      <div class="choice" id="choice1" onclick="makeGuess(0)">
+        <img id="img1" src="" alt="Player 1">
+        <p id="name1"></p>
+      </div>
+      <div class="choice" id="choice2" onclick="makeGuess(1)">
+        <img id="img2" src="" alt="Player 2">
+        <p id="name2"></p>
+      </div>
+    </div>
+
+    <button onclick="newRound()">Next Quote 🔁</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
